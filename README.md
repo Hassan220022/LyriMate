@@ -81,7 +81,7 @@ lib/
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/Hassan220022/LyriMate.git
    cd <repo-name>
    ```
 

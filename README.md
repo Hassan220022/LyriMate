@@ -7,10 +7,11 @@ This repository contains a **Flutter** application that lets you **search for so
 ## Demo & Screenshots
 
 <div align="center">
-  <img src="./demo/dark_mode_lyrics.png" alt="Spotify Search Demo" width="250" />
   <img src="./demo/dark_mode.png" alt="Dark Mode Home" width="250" />
+   <img src="./demo/test_spotify_api.png" alt="Light Mode Lyrics" width="250" />
+
+  <img src="./demo/dark_mode_lyrics.png" alt="Spotify Search Demo" width="250" />
   <img src="./demo/test_arabic_no_lyrics.png" alt="Light Mode Home" width="250" />
-  <img src="./demo/test_spotify_api.png" alt="Light Mode Lyrics" width="250" />>
 </div>
 
 > **Note:** GitHub may not support inline playback for `.mp4` files; clicking the link will either download or open the video in your browser depending on GitHub’s handling and your browser settings.

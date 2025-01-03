@@ -6,32 +6,12 @@ This repository contains a **Flutter** application that lets you **search for so
 
 ## Demo & Screenshots
 
-Below is a collection of screenshots and a short video demonstrating various features of the app. All media is located in the `demo` folder within this repository.
-
-1. **Spotify Search Demo**  
-   *Displays a list of search results matching the entered query.*
-   
-   ![Spotify Search Demo](./demo/test_spotify_api.png)
-
-2. **Dark Mode Home Screen**  
-   *The home screen with dark mode enabled (toggleable in the AppBar).*
-   
-   ![Dark Mode Home](./demo/dark_mode.png)
-
-3. **Dark Mode with Lyrics**  
-   *When a track is selected, the lyrics are automatically fetched and displayed.*
-   
-   ![Dark Mode Lyrics](./demo/dark_mode_lyrics.png)
-
-4. **Arabic Test (No Lyrics Found)**  
-   *An example of a case where the Lyrics.ovh API does not have the lyrics.*
-   
-   ![Arabic No Lyrics](./demo/test_arabic_no_lyrics.png)
-
-5. **Demo Video**  
-   *Click the link below to watch a short MP4 demo.*
-
-   [**Demo_lyrics.mp4**](./demo/Demo_lyrics.mp4)
+<div align="center">
+  <img src="./demo/dark_mode_lyrics.png" alt="Spotify Search Demo" width="250" />
+  <img src="./demo/dark_mode.png" alt="Dark Mode Home" width="250" />
+  <img src="./demo/test_arabic_no_lyrics.png" alt="Light Mode Home" width="250" />
+  <img src="./demo/test_spotify_api.png" alt="Light Mode Lyrics" width="250" />>
+</div>
 
 > **Note:** GitHub may not support inline playback for `.mp4` files; clicking the link will either download or open the video in your browser depending on GitHub’s handling and your browser settings.
 
